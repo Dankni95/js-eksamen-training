@@ -1,4 +1,4 @@
-# Welcome to GitHub Desktop!
+# Her øver Habil og Daniel på js eksamen :) :100:
 
 This is your README. READMEs are where you can communicate what your project is and how to use it.
 
